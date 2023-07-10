@@ -1,2 +1,2 @@
 # Peutingar_alpha2
-Peutingar platform alpha. second attempot
+Peutingar platform alpha. second attempt.
