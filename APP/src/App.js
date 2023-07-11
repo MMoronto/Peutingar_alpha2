@@ -4,4 +4,4 @@ var App = () => (
   <div>Peutingar Labs</div>
 )
 
-export default App;
+export default App
