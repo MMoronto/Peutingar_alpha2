@@ -3,7 +3,7 @@ Peutingar platform alpha. version 2.
 
 A decision engine for the environment, civil construction and the economy.
 
-**[peutingarlabs.com](https://mmoronto-peutingar-labs-streamofcode-f4uxrv.streamlit.app/)**
+**[peutingarlabs.com](https://www.peutingar.com/)**
 
 ## Docs
 
