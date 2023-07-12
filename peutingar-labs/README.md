@@ -1,25 +1,22 @@
-# Getting Started with Create React App
+# Peutingar_Labs_alpha_V2
+Peutingar platform alpha. version 2.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A decision engine for the environment, civil construction and the economy.
 
-## Available Scripts
+**[peutingarlabs.com](https://www.peutingar.com/)**
 
-In the project directory, you can run:
+## Docs
 
-### `npm start`
+- [React](https://reactjs.org)
+- [Create React App](https://github.com/facebook/create-react-app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
+- Development: 'npm start'
+- Test: 'npm test'
+- Build: 'npm run build'
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
